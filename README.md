@@ -1,7 +1,6 @@
-<p align="center">Hi there 👋, I'm Rian Rahman Al Aziz</p>
 
 ###
-
+## Hi there 👋, I'm Rian Rahman Al Aziz
 
 ## 🚀 About Me
 
